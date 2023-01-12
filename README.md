@@ -8,5 +8,5 @@
     <li>Correr el comando <strong>php artisan key:generate</strong></li>
     <li>Ir hasta el archivo UserSeerer.php que se encuentra en /database/seeders/UserSeerer.php y cambiar los datos del usuario que se creará al correr el comando <strong>php artisan migrate --seed</strong></li>
     <li>Correr el comando <strong>php artisan migrate --seed</strong></li>
-    <li>Por ultimo correr el comando <stron>php artisan serve</strong> para levantar el servior.</li>
+    <li>Por ultimo correr el comando <strong>php artisan serve</strong> para levantar el servior.</li>
 </ul>
